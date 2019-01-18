@@ -1,0 +1,11 @@
+{
+  "name": "dev-blogs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ronmaple/dev-blogs.git",
+  "author": "<ronmapue.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    
+  }
+}

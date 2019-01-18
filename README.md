@@ -1,6 +1,5 @@
 # "How I Bult This App"
-## A blog site similar to Medium where users can post 
-## a compilation of their Web-dev related notes.
+## A blog site similar to Medium where users can post a compilation of their Web-dev related notes.
 
 ### Libraries/Frameworks (Major libraries)
 * React ( + React Hooks)

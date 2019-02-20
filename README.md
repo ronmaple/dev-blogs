@@ -1,4 +1,4 @@
-# "How I Bult This App"
+# "How I Built This App"
 ## A blog site similar to Medium where users can post a compilation of their Web-dev related notes.
 ---
 ### Libraries/Frameworks ( *major* libraries)

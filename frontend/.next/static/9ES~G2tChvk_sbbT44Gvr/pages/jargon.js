@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{208:function(n,e,t){__NEXT_REGISTER_PAGE("/jargon",function(){return n.exports=t(209),{page:n.exports.default}})},209:function(n,e,t){"use strict";t.r(e);var a=t(1),r=t.n(a);e.default=function(){return r.a.createElement("div",null,r.a.createElement("p",null,"This is the jargon page"))}}},[[208,1,0]]]);

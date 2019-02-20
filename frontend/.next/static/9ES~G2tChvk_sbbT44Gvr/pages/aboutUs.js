@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{202:function(e,n,t){__NEXT_REGISTER_PAGE("/aboutUs",function(){return e.exports=t(203),{page:e.exports.default}})},203:function(e,n,t){"use strict";t.r(n);var u=t(1),a=t.n(u);n.default=function(){return a.a.createElement("div",null,a.a.createElement("p",null,"Who made this?"))}}},[[202,1,0]]]);

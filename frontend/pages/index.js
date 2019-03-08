@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
-import Link from "next";
-import Button from "/components/button.js";
+import Button from "../components/Button.js";
+import Section from "../components/Section.js";
 
 const Index = () => (
     <div>
         <p>Home</p>
-        <Button>I love you</Button>
+        <Button>I hate you</Button>
+        <Section />
     </div>
 );
 

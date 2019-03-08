@@ -1,14 +1,9 @@
-import { React, Component } from 'react';
-import styled from 'styled-components';
+import ButtonStyles from './styles/ButtonStyles';
 
-const Button = styled.button`
-  display: inline-block;
-  font-size: 1em;
-  margin: 1em;
-  padding: 0.25em 1em;
-  border: 2px solid palevioletred;
-  border-radius: 20px;
-  display: block;
-`;
+const Button = (props) => (
+    <ButtonStyles>
+        {props.children}
+    </ButtonStyles>
+)
 
 export default Button;

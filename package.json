@@ -5,7 +5,8 @@
   "repository": "https://github.com/ronmaple/dev-blogs.git",
   "author": "<ronmapue.dev@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    
+  "scripts": {},
+  "dependencies": {
+    "styled-components": "^4.1.3"
   }
 }
